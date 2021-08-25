@@ -1,10 +1,11 @@
 import "./App.css";
-import Matrix from "./features/matrix";
+
+import FormTask from "./features/formTask";
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Matrix />
+        <FormTask />
       </header>
     </div>
   );
